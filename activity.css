@@ -1,0 +1,68 @@
+*
+{
+    box-sizing: border-box;
+    /* background: rgb(72, 226, 247); */
+}
+body
+{
+    width: 90vw;
+    height:auto;
+    background: rgb(72, 226, 247);
+    font-style: cursive;
+    background: url("bg.jpeg") no-repeat cover ;
+}
+.domains
+{
+    /* border:1px solid black; */
+    border-radius: 25px;
+    padding: 20px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    /* margin-top: 10px; */
+    text-align: center;
+    width: 50vw;
+    font-size: 20px;
+    font-style: cursive;
+    background-color: blue;
+    color: aliceblue;
+    font-weight: bold;
+}
+.allint
+{
+    height: auto;
+    width:auto;
+    /* margin: auto; */
+    margin-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(14, 217, 231);
+}
+h6
+{
+    text-align: center;
+    margin: 10px;
+    font-weight: bold;
+    /* padding: 20px; */
+    /* position: absolute; */
+}
+/* .events
+{
+   left: 100px;
+   position: relative;
+} */
+.row
+{
+    padding: 40px;
+    /* background-color: rgb(67, 165, 172); */
+    width: 100vw;
+    height:auto;
+    margin: 40px;
+}
+.eve
+{
+    margin: 28px;
+    padding: 20px;
+    border-radius: 25px;
+    background-color: rgb(14,217,231);
+}
